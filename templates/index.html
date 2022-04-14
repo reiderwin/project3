@@ -1,14 +1,62 @@
 <!DOCTYPE html>
 <html lang="en">
+
 <head>
   <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <meta http-equiv="X-UA-Compatible" content="ie=edge">
-  <title>Document</title>
+  <title>Cancer Data</title>
+
+  <div class="top_border"><h1>Cancer Data </div>   
+</h1> 
+
+
+<!-- D3 library -->
+<script src="https://d3js.org/d3.v5.min.js"></script>
+
+<div id="map"></div>
+
+<!-- Our aos link to CSS -->
+<link rel="stylesheet" href="https://unpkg.com/aos@next/dist/aos.css" />
+
+<!-- Our link to our CSS -->
+<link rel="stylesheet" type="text/css" href="static/css/style.css"/>
+    
 </head>
+
 <body>
-  <h1>Open the console!</h1>
-  <script src="https://d3js.org/d3.v5.min.js"></script>
-  <script src="static/js/plots.js"></script>
+
+<!-- Our JavaScript -->
+<script type="text/javascript" src="static/js/logic.js"></script>
+<script type="text/javascript" src="static/js/plots.js"></script>
+
+<!-- Our AOS JavaScript -->
+<script src="https://unpkg.com/aos@next/dist/aos.js"></script>
+  <script>
+    AOS.init();
+  </script>
+
+<style>
+    body {
+      background-image: url('https://lh3.googleusercontent.com/xWhXRtYSWvIYy5aZyl6vcpGs801rZH1WYs46HcM0oIARHKd4XZgNf_1VWbKKEiIPwWGg3nWxQn7GpxedvNHTlLALIKPQkjqSWp8PLAZqDyPL2pZfPjDmcBE9BAcnmW_bXRH8UrJtHA=w2400?source=screenshot.guru');
+      background-repeat: no-repeat;
+  background-size: cover;
+    }
+    </style>
+   
+    
+<div class="box" data-aos="fade-up" data-aos-duration="2000" data-aos-easing="ease-in-quad">
+    <h2>Animated using <code>fade-up</code>.</h2></div>
+
+
+<div class="item" data-aos="zoom-in"
+data-aos-delay="200" data-aos-duration="2000" data-aos-easing="ease-in-quad">
+        <h2>working</h2></div>
+
+
+    </div>
+    <div class="item" 
+    data-aos-delay="1000" data-aos="zoom-in">
+    
+    </div>
 </body>
+
 </html>
