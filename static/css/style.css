@@ -1,0 +1,42 @@
+h1 {
+    font-size: 6.5em;
+    font: bold;
+    font-style: Helvetica;
+    text-align: center;
+}
+
+
+.top_border {
+    position: absolute; 
+    top: 0; 
+    left: 0; 
+    background-color: #DDEEEE; 
+    width: 100%; 
+}
+
+
+
+.box {
+    margin-top: 20%;
+    width: 40%;
+    height: 200px;
+    background: black;
+    border-radius: 2px;
+    padding: 10px;
+    color: white;
+    text-align: center;
+    z-index: -1;
+    position:relative;
+  }
+  .item {
+    width: 200px;
+    height: 200px;
+    margin: 50px auto;
+    padding-top: 75px;
+    background: black;
+    text-align: center;
+    color: #FFF;
+    font-size: 3em;
+    z-index: -1;
+    position:relative;
+  }
