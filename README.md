@@ -17,9 +17,9 @@
 * Putting in place better cancer prevention and treatment also equip the over all system to deal with other challenges: Ebola, AIDS, Covid,...
 
 * Possible Insights from Historical Data:
- * Patient Demographic 
- * Research Direction 
- * Economic Impact 
+  * Patient Demographic 
+  * Research Direction 
+  * Economic Impact 
 
 # Methods & Procedures
 ### Data Selection & Transformation
