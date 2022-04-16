@@ -4,6 +4,15 @@ h1 {
     font-style: Helvetica;
     text-align: center;
 }
+h2 {
+  font-size: 3em;
+  font-style: normal;
+}
+
+h3 {
+  font-size: 1em;
+  font-style: normal;
+}
 
 
 .top_border {
@@ -29,10 +38,11 @@ h1 {
     position:relative;
   }
   .item {
-    width: 200px;
-    height: 200px;
-    margin: 50px auto;
+    width: 30%;
+    height: 40%;
+    margin: 75px auto;
     padding-top: 75px;
+    padding-left: 0%;
     background: black;
     text-align: center;
     color: #FFF;
