@@ -3,7 +3,7 @@
 [![Presentation Link](https://github.com/reiderwin/project3/blob/main/Resources/presentation_image_placeholder.png)](https://docs.google.com/presentation/d/1T9VS1c6-boq4IQaspmSfhmNFfRlykG0CqFMgfjUC9Hg/edit?usp=sharing )
 
 # Data Source:
-[Global Data Health Exchange- GHDX] (https://ghdx.healthdata.org/us-data)
+[Global Data Health Exchange- GHDX](https://ghdx.healthdata.org/us-data)
 * Entire US by State from 1981-2014 Cancer Mortality per 100,000 people
 * Male and Female data per year
 # Main CSV
