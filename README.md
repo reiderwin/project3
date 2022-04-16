@@ -32,8 +32,8 @@
 * Converted dataset to be extract and filterable for data analysis
 ### Data Visualizations 
 * Displayed across states: 
-  ** Mortality by state over time, both male and female (Plotly Bar Graph, Drop Down Menu)
-  ** Georgia mortality rates over time, both male and female
+  * Mortality by state over time, both male and female (Plotly Bar Graph, Drop Down Menu)
+  * Georgia mortality rates over time, both male and female
 ### Excess JS Library Used
 * JS AOS
 
